@@ -25,7 +25,6 @@ On clients (students) device:
 # stream.bat. Command script to execute. Contains full instructions.
 
 @echo off
-::
 :: TeacherCast (Windows Version).
 ::
 :: Shares Teacher's screen to Network, through a local Media Server.
