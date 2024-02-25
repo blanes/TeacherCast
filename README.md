@@ -46,8 +46,8 @@ On clients (students) device:
 :: - 3) From the same above ZIP, extract config file: MediaMTX.yml  
 ::	Edit this file, just appending the following text at the end:  
 ::	"paths:  
-::         stream:  
-::            source: udp://127.0.0.1:1234"  
+::     stream:  
+::       source: udp://127.0.0.1:1234"  
 ::  
 :: -> (OPTIONAL) you can also save resources disabling unused protocols on MediaMTX.yml, setting:  
 ::    rtsp: no  
@@ -91,5 +91,3 @@ start %ROOT%ffmpeg -f gdigrab -i desktop -c:v libx264 -preset ultrafast -f mpegt
 ::	** minimal delay can occur (between 0.2-1.5s) depending on number of clients connected.  
 ::  
 
-
-stream.bat…]()
