@@ -5,13 +5,13 @@ Shares Teacher Screen to network / ScreenCast / ScreenShare
 - No installation needed
 - Free
 - Open Source
-- 3-step, 5-min to only-once initial setup
+- 3-step, 5-min for only-once initial setup
 - Clients can view Teacher Screen through any Browser
   
 # How it works
 On teacher computer:
   - Run standalone, open-source FFMPEG.exe command to stream local desktop to local Media Server
-  - Run standaloone, open-source local Media Server (MediaMTX.exe)
+  - Run standalone, open-source local Media Server (MediaMTX.exe)
 
 On clients (students) device:
   - Open a browser to "http://Teacher_IP:8889/stream".
