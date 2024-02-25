@@ -50,10 +50,10 @@ netsh advfirewall firewall add rule name="MediaMTX" dir=in action=allow program=
 :CONTINUE
 ::
 :: 2) Starts Local Media Server:
-start %ROOT%mediamtx.exe
+start /min %ROOT%mediamtx.exe
 ::
 :: 3) Stream desktop to Local Media Server:
-start %ROOT%ffmpeg -f gdigrab -i desktop -c:v libx264 -preset ultrafast -f mpegts udp://127.0.0.1:1234?pkt_size=1316
+start /min %ROOT%ffmpeg -f gdigrab -i desktop -c:v libx264 -preset ultrafast -f mpegts udp://127.0.0.1:1234?pkt_size=1316
 ::
 :: 
 :: *** AT THIS POINT YOU ARE CASTING TEACHER SCREEN AND CAN CAPTURE IT FROM BROWSERS: ***
