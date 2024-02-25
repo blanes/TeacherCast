@@ -1,5 +1,5 @@
 # TeacherCast
-Shares Teacher Screen to network
+Shares Teacher Screen to network / ScreenCast / ScreenShare
 
 # Features
 - No installation needed
