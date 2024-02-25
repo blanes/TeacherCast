@@ -5,7 +5,7 @@ Shares Teacher Screen to network
 - No installation needed
 - Free
 - Open Source
-- 3-step, 5-min to setup
+- 3-step, 5-min to inicital setup
 - Clients can view Teacher Screen through any Browser
   
 # How it works
