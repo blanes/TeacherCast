@@ -24,10 +24,11 @@ On clients (students) device:
 
 # stream.bat. Command script to execute. Contains full instructions.
 
-@echo off
-:: TeacherCast (Windows Version).
-::
-:: Shares Teacher's screen to Network, through a local Media Server.
+@echo off__
+::__
+:: TeacherCast (Windows Version).__
+::__
+:: Shares Teacher's screen to Network, through a local Media Server.__
 :: Any browser (student) can view, at the address: http://Teacher_IP:8889/stream
 ::
 :: PREREQUISITES - BEGIN:
