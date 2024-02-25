@@ -92,4 +92,4 @@ start %ROOT%ffmpeg -f gdigrab -i desktop -c:v libx264 -preset ultrafast -f mpegt
 ::
 
 
-
+eam.bat…]()
