@@ -24,6 +24,7 @@ On clients (students) device:
 
 # stream.bat. Command script to execute. Contains full instructions.
 
+<pre>
 @echo off  
 ::  
 :: TeacherCast (Windows Version).  
@@ -46,8 +47,8 @@ On clients (students) device:
 :: - 3) From the same above ZIP, extract config file: MediaMTX.yml  
 ::	Edit this file, just appending the following text at the end:  
 ::	"paths:  
-::   <blank><blank>stream:  
-::   <blank><blank><blank><blank>source: udp://127.0.0.1:1234"  
+::     stream:  
+::       source: udp://127.0.0.1:1234"  
 ::
 :: (NOTE: substitute <blank> above for a blank space.)
 ::  
@@ -88,7 +89,9 @@ start %ROOT%ffmpeg -f gdigrab -i desktop -c:v libx264 -preset ultrafast -f mpegt
 ::  
 ::	-> OPEN A BROWSER IN YOUR NETWORK AND ENTER THE FOLLOWING URL:  
 ::	-> "http://TEACHER_IP:8889/stream"  
-::  
+::
+</pre>
+
 ::	** can last 10 seconds or so to begin showing content, due to buffering.  
 ::	** minimal delay can occur (between 0.2-1.5s) depending on number of clients connected.  
 ::  
