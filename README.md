@@ -94,9 +94,7 @@ start %ROOT%ffmpeg -f gdigrab -i desktop -c:v libx264 -preset ultrafast -f mpegt
 ::	-> OPEN A BROWSER IN YOUR NETWORK AND ENTER THE FOLLOWING URL:  
 ::	-> "http://TEACHER_IP:8889/stream"  
 ::
-</pre>
-
 ::	** can last 10 seconds or so to begin showing content, due to buffering.  
 ::	** minimal delay can occur (between 0.2-1.5s) depending on number of clients connected.  
 ::  
-
+</pre>
