@@ -22,7 +22,7 @@ On clients (students) device:
 2) Client Browser -> MediaMTX.exe: WebRTC
 
 
-# stream.bat. Command script to execute. Contains full instructions.
+# stream.bat: Command script to execute. Contains full instructions.
 
 <pre>
 @echo off  
