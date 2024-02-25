@@ -26,3 +26,7 @@ On clients (students) device:
 # Download script "stream.bat", follow instructions contained inside and then execute it. 
 
 You are done.
+
+NOTE: If you like this procedure and fint it useful, consider a donation:
+
+![qrcode](https://github.com/blanes/TeacherCast/assets/3591929/a872ad23-7b14-4fc9-8f40-a291493f0e1f)
