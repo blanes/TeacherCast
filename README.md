@@ -24,7 +24,7 @@ On clients (students) device:
 
 # stream.bat. Command script to execute. Contains full instructions.
 
-[Uploading @echo off
+@echo off
 ::
 :: TeacherCast (Windows Version).
 ::
