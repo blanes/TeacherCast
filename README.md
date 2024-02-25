@@ -21,9 +21,8 @@ On clients (students) device:
 1) FFMPEG.EXE -> MediaMTX.exe: UDP
 2) Client Browser -> MediaMTX.exe: WebRTC
 
-# Main BAT script (with instructions). 3-step, 5 min required to only-once initial setup
 
-[Uploading stream.bat…]()
+# Main BAT script (with instructions). 3-step, 5 min required to only-once initial setup
 
 @echo off
 ::
