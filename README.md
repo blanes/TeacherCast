@@ -16,6 +16,11 @@ On teacher computer:
 On clients (students) device:
   - Open a browser to "http://Teacher_IP:8889/stream".
 
+
+
+![how](https://github.com/blanes/TeacherCast/assets/3591929/31753a92-a206-4d37-bed6-8c480f4a3c88)
+
+
 # Protocols involved
 1) FFMPEG.EXE -> MediaMTX.exe: UDP
 2) Client Browser -> MediaMTX.exe: WebRTC
