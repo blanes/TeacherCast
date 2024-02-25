@@ -38,11 +38,13 @@ On clients (students) device:
 ::   
 :: - PUT the following 4 files on it:  
 ::  
-:: - 1) Download FFMPEG.EXE for Windows from:  
-::	https://www.ffmpeg.org/download.html#build-windows  
+:: - 1) Download FFMPEG for Windows from:  
+::	https://www.ffmpeg.org/download.html#build-windows.
+:: <b>Put file "FFMPEG.EXE" in the folder.</b>
 ::  
-:: - 2) Download Media Server (MediaMTX.EXE) from:  
+:: - 2) Download Media Server (MediaMTX) from:  
 ::	https://github.com/bluenviron/mediamtx/releases (Select last *Windows_amd64* and unzip)  
+:: <b>Put the file "MediaMTX.EXE" in the folder.</b>
 ::  
 :: - 3) From the same above ZIP, extract config file: MediaMTX.yml  
 ::	Edit this file, just appending the following text at the end:  
@@ -51,7 +53,8 @@ On clients (students) device:
 ::     stream:  
 ::       source: udp://127.0.0.1:1234"  
 ::
-:: (NOTE: preserve indentation blank spaces above, two for the second line and four for the third, as marked).
+:: (NOTE: preserve indentation blank spaces above, two for the second line and four for the third, as marked)
+:: <b>Put the modified file "MediaMTX.yml" in the folder.</b>
 ::  
 :: -> (OPTIONAL) you can also save resources disabling unused protocols on MediaMTX.yml, setting:  
 ::    rtsp: no  
@@ -60,13 +63,13 @@ On clients (students) device:
 ::    srt: no  
 ::   
 ::  
-:: - 4) PUT this "stream.bat" file on the same folder.  
+:: - 4) <b>PUT this "stream.bat" file on the same folder.  </b>
 ::  
 ::  
 :: PREREQUISITES - END  
 ::  
 ::  
-:: **** ALL DONE! NOW BEGIN SERVING: !! ****  
+:: <b> **** ALL DONE! NOW BEGIN SERVING: !! ****  </b>
 ::  
 Set ROOT=%~dp0%  
 ::  
