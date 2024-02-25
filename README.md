@@ -46,9 +46,12 @@ On clients (students) device:
 ::  
 :: - 3) From the same above ZIP, extract config file: MediaMTX.yml  
 ::	Edit this file, just appending the following text at the end:  
+::
 ::  "paths:  
 ::     stream:  
 ::       source: udp://127.0.0.1:1234"  
+::
+:: (NOTE: preserve blank spaces above, two for the second line and four for the third, as marked).
 ::  
 :: -> (OPTIONAL) you can also save resources disabling unused protocols on MediaMTX.yml, setting:  
 ::    rtsp: no  
