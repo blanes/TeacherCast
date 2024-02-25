@@ -29,7 +29,7 @@ You are done.
 
 
 
-NOTE: If you like this procedure and fint it useful, consider a donation (PayPal):
+NOTE: If you like this procedure and find it useful, consider a donation (PayPal):
 
 https://www.paypal.com/donate?hosted_button_id=K2L9HNDLCZ5UU
 
