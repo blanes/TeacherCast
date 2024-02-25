@@ -38,15 +38,15 @@ On clients (students) device:
 ::   
 :: - PUT the following 4 files on it:  
 ::  
-:: - 1) Download FFMPEG for Windows from:  
+:: - <b>1)</b> Download FFMPEG for Windows from:  
 ::	https://www.ffmpeg.org/download.html#build-windows.
 :: <b>Put file "FFMPEG.EXE" in the folder.</b>
 ::  
-:: - 2) Download Media Server (MediaMTX) from:  
+:: - <b>2)</b> Download Media Server (MediaMTX) from:  
 ::	https://github.com/bluenviron/mediamtx/releases (Select last *Windows_amd64* and unzip)  
 :: <b>Put the file "MediaMTX.EXE" in the folder.</b>
 ::  
-:: - 3) From the same above ZIP, extract config file: MediaMTX.yml  
+:: - <b>3)</b> From the same above ZIP, extract config file: MediaMTX.yml  
 ::	Edit this file, just appending the following text at the end:  
 ::
 ::  "paths:  
@@ -63,7 +63,7 @@ On clients (students) device:
 ::    srt: no  
 ::   
 ::  
-:: - 4) <b>PUT this "stream.bat" file on the same folder.  </b>
+:: - <b>4) PUT this "stream.bat" file on the same folder.  </b>
 ::  
 ::  
 :: PREREQUISITES - END  
