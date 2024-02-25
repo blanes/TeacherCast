@@ -29,4 +29,5 @@ You are done.
 
 NOTE: If you like this procedure and fint it useful, consider a donation:
 
-![qrcode](https://github.com/blanes/TeacherCast/assets/3591929/a872ad23-7b14-4fc9-8f40-a291493f0e1f)
+![qrcode](https://github.com/blanes/TeacherCast/assets/3591929/985c0c3c-38a8-4045-bae5-ed31cffd4cc2)
+
