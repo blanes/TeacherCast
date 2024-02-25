@@ -63,7 +63,7 @@ On clients (students) device:
 ::    srt: no  
 ::   
 ::  
-:: - <b>4) PUT this "stream.bat" file on the same folder.  </b>
+:: - <b>4) PUT this "stream.bat" file your are viewing, on the same folder and execute it!  </b>
 ::  
 ::  
 :: PREREQUISITES - END  
