@@ -51,7 +51,7 @@ On clients (students) device:
 ::     stream:  
 ::       source: udp://127.0.0.1:1234"  
 ::
-:: (NOTE: preserve blank spaces above, two for the second line and four for the third, as marked).
+:: (NOTE: preserve indentation blank spaces above, two for the second line and four for the third, as marked).
 ::  
 :: -> (OPTIONAL) you can also save resources disabling unused protocols on MediaMTX.yml, setting:  
 ::    rtsp: no  
