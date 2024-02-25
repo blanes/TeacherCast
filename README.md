@@ -31,6 +31,8 @@ You are done.
 
 NOTE: If you like this procedure and fint it useful, consider a donation (PayPal):
 
+https://www.paypal.com/donate?hosted_button_id=K2L9HNDLCZ5UU
+
 ![qrcode (1)](https://github.com/blanes/TeacherCast/assets/3591929/e0746a99-a0c9-495c-9578-33bc52d6b60d)
 
 
