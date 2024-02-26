@@ -23,8 +23,8 @@
 :: - 3) From the same above ZIP, extract, in the same folder, config file: MediaMTX.yml
 ::	Edit this file, just appending the following text at the end:
 ::	"paths:
-::     stream:
-::       source: udp://127.0.0.1:1234"
+::       stream:
+::           source: udp://127.0.0.1:1234"
 ::
 :: 
 :: -> (OPTIONAL) you can also save resources disabling unused protocols on MediaMTX.yml, setting:
