@@ -25,9 +25,9 @@
 ::        - Comment out all lines in the last section beginning with "paths:"
 ::        - Append the following text at the end (preserve spaces at indentation):
 ::
-::	"paths:
+::	paths:
 ::         stream:
-::           source: udp://127.0.0.1:1234"
+::           source: udp://127.0.0.1:1234
 ::
 ::
 :: 
