@@ -21,7 +21,9 @@
 ::      ** RUN "MediaMTX.exe" ONCE WITH ELEVATED PERMISSIONS TO ADD A RULE IN THE FIREWALL **, then close it.
 ::
 :: - 3) From the same above ZIP, extract, in the same folder, config file: MediaMTX.yml
-::	Edit this file, just appending the following text at the end (preserve spaces at indentation):
+::	    Edit this file:
+::        - Comment out all lines in the last section beginning with "paths:"
+::        - Append the following text at the end (preserve spaces at indentation):
 ::
 ::	"paths:
 ::         stream:
