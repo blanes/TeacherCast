@@ -36,6 +36,7 @@
 ::    rtmp: no
 ::    hls: no
 ::    srt: no
+::    .. in the corresponding places.
 :: 
 ::
 :: - 4) PUT this "stream.bat" file on the same folder.
