@@ -7,7 +7,7 @@
 ::
 :: PREREQUISITES - BEGIN:
 ::
-:: - Create a folder (in you Teacher Computer, or in Flash Drive, or in network folder...)
+:: - Create a folder (in your Teacher Computer, or in Flash Drive, or in network folder...)
 :: 
 :: - PUT the following 4 files on it:
 ::
